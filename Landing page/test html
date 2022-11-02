@@ -1,0 +1,7 @@
+div class="banner">
+  <div class="container">
+    <h1>Mon produit</h1>
+    <h2>Your tag line</h2>
+    <a href="" class="btn-blue">Appuyer</a>
+  </div>
+</div>
